@@ -6,8 +6,8 @@
 A simple port scanner created in PYTHON3.
 <br>
 <h3>Usage: </h3>
-<code>python3 port-scanner 172.217.161.4 1337</code><br>
-<code>python3 port-scanner help</code><br>
-<code>python3 port-scanner [IP-Address] [Port]
+<code>python3 port-scanner.py 172.217.161.4 1337</code><br>
+<code>python3 port-scanner.py help</code><br>
+<code>python3 port-scanner.py [IP-Address] [Port]
 </code>
 <br>
